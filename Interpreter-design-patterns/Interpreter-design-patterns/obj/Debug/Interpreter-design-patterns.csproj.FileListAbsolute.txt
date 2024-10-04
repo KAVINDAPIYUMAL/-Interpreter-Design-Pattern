@@ -1,0 +1,7 @@
+D:\MyLearns\GIT\Design_Patterns\Intepreter-Design-Patterns\Interpreter-design-patterns\Interpreter-design-patterns\bin\Debug\Interpreter-design-patterns.exe.config
+D:\MyLearns\GIT\Design_Patterns\Intepreter-Design-Patterns\Interpreter-design-patterns\Interpreter-design-patterns\bin\Debug\Interpreter-design-patterns.exe
+D:\MyLearns\GIT\Design_Patterns\Intepreter-Design-Patterns\Interpreter-design-patterns\Interpreter-design-patterns\bin\Debug\Interpreter-design-patterns.pdb
+D:\MyLearns\GIT\Design_Patterns\Intepreter-Design-Patterns\Interpreter-design-patterns\Interpreter-design-patterns\obj\Debug\Interpreter-design-patterns.csproj.AssemblyReference.cache
+D:\MyLearns\GIT\Design_Patterns\Intepreter-Design-Patterns\Interpreter-design-patterns\Interpreter-design-patterns\obj\Debug\Interpreter-design-patterns.csproj.CoreCompileInputs.cache
+D:\MyLearns\GIT\Design_Patterns\Intepreter-Design-Patterns\Interpreter-design-patterns\Interpreter-design-patterns\obj\Debug\Interpreter-design-patterns.exe
+D:\MyLearns\GIT\Design_Patterns\Intepreter-Design-Patterns\Interpreter-design-patterns\Interpreter-design-patterns\obj\Debug\Interpreter-design-patterns.pdb
